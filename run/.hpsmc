@@ -1,0 +1,12 @@
+[JobManager]
+hps_java_bin_jar = /fs/ddn/sdf/group/hps/users/bravo/src/hps-java-ali/distribution/target/hps-distribution-5.2.2-SNAPSHOT-bin.jar
+java_args = -DdisableSvtAlignmentConstants -Djna.library.path="/sdf/group/hps/src/general-broken-lines/cpp/install/lib/" -XX:+UseSerialGC -Xmx3500m
+conditions_url = jdbc:sqlite:/fs/ddn/sdf/group/hps/db/hps_conditions_240918.db
+
+[Job]
+dry_run = False
+enable_copy_input_files = False
+delete_existing = True
+enable_file_chaining = True
+check_output_files = False
+delete_rundir = False

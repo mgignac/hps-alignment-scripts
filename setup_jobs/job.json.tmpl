@@ -1,0 +1,34 @@
+{
+    {% set outF = {"chi2":"data_events_aliRecon_all_millepede_ST.bin",
+                   "PC":"data_events_aliRecon_all_PC_ST_millepede.bin",
+                   "BSC":"data_events_aliRecon_all_BSC_millepede.bin",
+                   "EOP":"data_events_aliRecon_all_millepede_EOP.bin",
+                   "kf_chi2":"data_events_aliRecon_all_millepede_kf_chi2.bin",
+                   "kf_PC":"data_events_aliRecon_all_millepede_kf_PC.bin",
+                   "kfplots":"data_events_aliRecon_kfplots.root",
+                   "kfplotsfull":"data_events_aliRecon_kfplotsfull.root",
+                   "sarah":"data_events_aliRecon_kfgblplots.root",
+                   "gblplots":"data_events_aliRecon_gblplots.root",
+                   "gblplots_new":"data_events_aliRecon_gblplots.root"}
+    %}
+    {% set outFext = outF[outname].split('.')[1] %}
+    {% set fileSplit = input_files['data'][0].split('/') %}
+    {% set runTag = fileSplit[9] %}
+    {% set runNumber = runTag[-5:] | int %}
+    {% set partNameList = fileSplit[11].split('.') %}
+    "input_files": {
+        "{{input_files['data'][0]}}": "data_events.slcio"
+    },
+    "output_files": {
+        "data_events_aliRecon_all_PC_ST_millepede.bin" : "data_events_aliRecon_all_PC_ST_millepede.bin",
+        "data_events_aliRecon_gblplots.root" : "data_events_aliRecon_gblplots.root"
+    },
+    "output_dir": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/output/{{ detector }}/{{ runNumber }}/{{ job_id }}",
+    "detector": "{{ detector }}",
+    "run_number": {{ runNumber }},
+    "steering_files": {
+        "readout": "/org/hps/steering/readout/PhysicsRun2019TrigMultiSingles.lcsim",
+        "aliRecon": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/alignmentDrivers/alignmentDriver_PC.lcsim"
+    },
+    "nevents": {{ nevents }}
+}

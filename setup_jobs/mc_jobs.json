@@ -1,0 +1,362 @@
+[
+    {
+        "input_files": {
+            "/fs/ddn/sdf/group/hps/users/mgignac/MC/output/fee/10/beam_rot_sampled_readout_recon.slcio": "data_events.slcio"
+        },
+        "output_files": {
+            "data_events_aliRecon_all_PC_ST_millepede.bin": "data_events_aliRecon_all_PC_ST_millepede.bin",
+            "data_events_aliRecon_gblplots.root": "data_events_aliRecon_gblplots.root"
+        },
+        "output_dir": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/output/HPS_Run2021Pass1_v5/1194550/1",
+        "detector": "HPS_Run2021Pass1_v5",
+        "run_number": 1194550,
+        "steering_files": {
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigMultiSingles.lcsim",
+            "aliRecon": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/alignmentDrivers/alignmentDriver_PC.lcsim"
+        },
+        "nevents": -1,
+        "job_id": 1
+    },
+    {
+        "input_files": {
+            "/fs/ddn/sdf/group/hps/users/mgignac/MC/output/fee/11/beam_rot_sampled_readout_recon.slcio": "data_events.slcio"
+        },
+        "output_files": {
+            "data_events_aliRecon_all_PC_ST_millepede.bin": "data_events_aliRecon_all_PC_ST_millepede.bin",
+            "data_events_aliRecon_gblplots.root": "data_events_aliRecon_gblplots.root"
+        },
+        "output_dir": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/output/HPS_Run2021Pass1_v5/1194550/2",
+        "detector": "HPS_Run2021Pass1_v5",
+        "run_number": 1194550,
+        "steering_files": {
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigMultiSingles.lcsim",
+            "aliRecon": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/alignmentDrivers/alignmentDriver_PC.lcsim"
+        },
+        "nevents": -1,
+        "job_id": 2
+    },
+    {
+        "input_files": {
+            "/fs/ddn/sdf/group/hps/users/mgignac/MC/output/fee/12/beam_rot_sampled_readout_recon.slcio": "data_events.slcio"
+        },
+        "output_files": {
+            "data_events_aliRecon_all_PC_ST_millepede.bin": "data_events_aliRecon_all_PC_ST_millepede.bin",
+            "data_events_aliRecon_gblplots.root": "data_events_aliRecon_gblplots.root"
+        },
+        "output_dir": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/output/HPS_Run2021Pass1_v5/1194550/3",
+        "detector": "HPS_Run2021Pass1_v5",
+        "run_number": 1194550,
+        "steering_files": {
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigMultiSingles.lcsim",
+            "aliRecon": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/alignmentDrivers/alignmentDriver_PC.lcsim"
+        },
+        "nevents": -1,
+        "job_id": 3
+    },
+    {
+        "input_files": {
+            "/fs/ddn/sdf/group/hps/users/mgignac/MC/output/fee/13/beam_rot_sampled_readout_recon.slcio": "data_events.slcio"
+        },
+        "output_files": {
+            "data_events_aliRecon_all_PC_ST_millepede.bin": "data_events_aliRecon_all_PC_ST_millepede.bin",
+            "data_events_aliRecon_gblplots.root": "data_events_aliRecon_gblplots.root"
+        },
+        "output_dir": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/output/HPS_Run2021Pass1_v5/1194550/4",
+        "detector": "HPS_Run2021Pass1_v5",
+        "run_number": 1194550,
+        "steering_files": {
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigMultiSingles.lcsim",
+            "aliRecon": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/alignmentDrivers/alignmentDriver_PC.lcsim"
+        },
+        "nevents": -1,
+        "job_id": 4
+    },
+    {
+        "input_files": {
+            "/fs/ddn/sdf/group/hps/users/mgignac/MC/output/fee/14/beam_rot_sampled_readout_recon.slcio": "data_events.slcio"
+        },
+        "output_files": {
+            "data_events_aliRecon_all_PC_ST_millepede.bin": "data_events_aliRecon_all_PC_ST_millepede.bin",
+            "data_events_aliRecon_gblplots.root": "data_events_aliRecon_gblplots.root"
+        },
+        "output_dir": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/output/HPS_Run2021Pass1_v5/1194550/5",
+        "detector": "HPS_Run2021Pass1_v5",
+        "run_number": 1194550,
+        "steering_files": {
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigMultiSingles.lcsim",
+            "aliRecon": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/alignmentDrivers/alignmentDriver_PC.lcsim"
+        },
+        "nevents": -1,
+        "job_id": 5
+    },
+    {
+        "input_files": {
+            "/fs/ddn/sdf/group/hps/users/mgignac/MC/output/fee/15/beam_rot_sampled_readout_recon.slcio": "data_events.slcio"
+        },
+        "output_files": {
+            "data_events_aliRecon_all_PC_ST_millepede.bin": "data_events_aliRecon_all_PC_ST_millepede.bin",
+            "data_events_aliRecon_gblplots.root": "data_events_aliRecon_gblplots.root"
+        },
+        "output_dir": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/output/HPS_Run2021Pass1_v5/1194550/6",
+        "detector": "HPS_Run2021Pass1_v5",
+        "run_number": 1194550,
+        "steering_files": {
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigMultiSingles.lcsim",
+            "aliRecon": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/alignmentDrivers/alignmentDriver_PC.lcsim"
+        },
+        "nevents": -1,
+        "job_id": 6
+    },
+    {
+        "input_files": {
+            "/fs/ddn/sdf/group/hps/users/mgignac/MC/output/fee/16/beam_rot_sampled_readout_recon.slcio": "data_events.slcio"
+        },
+        "output_files": {
+            "data_events_aliRecon_all_PC_ST_millepede.bin": "data_events_aliRecon_all_PC_ST_millepede.bin",
+            "data_events_aliRecon_gblplots.root": "data_events_aliRecon_gblplots.root"
+        },
+        "output_dir": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/output/HPS_Run2021Pass1_v5/1194550/7",
+        "detector": "HPS_Run2021Pass1_v5",
+        "run_number": 1194550,
+        "steering_files": {
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigMultiSingles.lcsim",
+            "aliRecon": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/alignmentDrivers/alignmentDriver_PC.lcsim"
+        },
+        "nevents": -1,
+        "job_id": 7
+    },
+    {
+        "input_files": {
+            "/fs/ddn/sdf/group/hps/users/mgignac/MC/output/fee/17/beam_rot_sampled_readout_recon.slcio": "data_events.slcio"
+        },
+        "output_files": {
+            "data_events_aliRecon_all_PC_ST_millepede.bin": "data_events_aliRecon_all_PC_ST_millepede.bin",
+            "data_events_aliRecon_gblplots.root": "data_events_aliRecon_gblplots.root"
+        },
+        "output_dir": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/output/HPS_Run2021Pass1_v5/1194550/8",
+        "detector": "HPS_Run2021Pass1_v5",
+        "run_number": 1194550,
+        "steering_files": {
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigMultiSingles.lcsim",
+            "aliRecon": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/alignmentDrivers/alignmentDriver_PC.lcsim"
+        },
+        "nevents": -1,
+        "job_id": 8
+    },
+    {
+        "input_files": {
+            "/fs/ddn/sdf/group/hps/users/mgignac/MC/output/fee/18/beam_rot_sampled_readout_recon.slcio": "data_events.slcio"
+        },
+        "output_files": {
+            "data_events_aliRecon_all_PC_ST_millepede.bin": "data_events_aliRecon_all_PC_ST_millepede.bin",
+            "data_events_aliRecon_gblplots.root": "data_events_aliRecon_gblplots.root"
+        },
+        "output_dir": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/output/HPS_Run2021Pass1_v5/1194550/9",
+        "detector": "HPS_Run2021Pass1_v5",
+        "run_number": 1194550,
+        "steering_files": {
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigMultiSingles.lcsim",
+            "aliRecon": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/alignmentDrivers/alignmentDriver_PC.lcsim"
+        },
+        "nevents": -1,
+        "job_id": 9
+    },
+    {
+        "input_files": {
+            "/fs/ddn/sdf/group/hps/users/mgignac/MC/output/fee/19/beam_rot_sampled_readout_recon.slcio": "data_events.slcio"
+        },
+        "output_files": {
+            "data_events_aliRecon_all_PC_ST_millepede.bin": "data_events_aliRecon_all_PC_ST_millepede.bin",
+            "data_events_aliRecon_gblplots.root": "data_events_aliRecon_gblplots.root"
+        },
+        "output_dir": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/output/HPS_Run2021Pass1_v5/1194550/10",
+        "detector": "HPS_Run2021Pass1_v5",
+        "run_number": 1194550,
+        "steering_files": {
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigMultiSingles.lcsim",
+            "aliRecon": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/alignmentDrivers/alignmentDriver_PC.lcsim"
+        },
+        "nevents": -1,
+        "job_id": 10
+    },
+    {
+        "input_files": {
+            "/fs/ddn/sdf/group/hps/users/mgignac/MC/output/fee/1/beam_rot_sampled_readout_recon.slcio": "data_events.slcio"
+        },
+        "output_files": {
+            "data_events_aliRecon_all_PC_ST_millepede.bin": "data_events_aliRecon_all_PC_ST_millepede.bin",
+            "data_events_aliRecon_gblplots.root": "data_events_aliRecon_gblplots.root"
+        },
+        "output_dir": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/output/HPS_Run2021Pass1_v5/1194550/11",
+        "detector": "HPS_Run2021Pass1_v5",
+        "run_number": 1194550,
+        "steering_files": {
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigMultiSingles.lcsim",
+            "aliRecon": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/alignmentDrivers/alignmentDriver_PC.lcsim"
+        },
+        "nevents": -1,
+        "job_id": 11
+    },
+    {
+        "input_files": {
+            "/fs/ddn/sdf/group/hps/users/mgignac/MC/output/fee/20/beam_rot_sampled_readout_recon.slcio": "data_events.slcio"
+        },
+        "output_files": {
+            "data_events_aliRecon_all_PC_ST_millepede.bin": "data_events_aliRecon_all_PC_ST_millepede.bin",
+            "data_events_aliRecon_gblplots.root": "data_events_aliRecon_gblplots.root"
+        },
+        "output_dir": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/output/HPS_Run2021Pass1_v5/1194550/12",
+        "detector": "HPS_Run2021Pass1_v5",
+        "run_number": 1194550,
+        "steering_files": {
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigMultiSingles.lcsim",
+            "aliRecon": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/alignmentDrivers/alignmentDriver_PC.lcsim"
+        },
+        "nevents": -1,
+        "job_id": 12
+    },
+    {
+        "input_files": {
+            "/fs/ddn/sdf/group/hps/users/mgignac/MC/output/fee/2/beam_rot_sampled_readout_recon.slcio": "data_events.slcio"
+        },
+        "output_files": {
+            "data_events_aliRecon_all_PC_ST_millepede.bin": "data_events_aliRecon_all_PC_ST_millepede.bin",
+            "data_events_aliRecon_gblplots.root": "data_events_aliRecon_gblplots.root"
+        },
+        "output_dir": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/output/HPS_Run2021Pass1_v5/1194550/13",
+        "detector": "HPS_Run2021Pass1_v5",
+        "run_number": 1194550,
+        "steering_files": {
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigMultiSingles.lcsim",
+            "aliRecon": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/alignmentDrivers/alignmentDriver_PC.lcsim"
+        },
+        "nevents": -1,
+        "job_id": 13
+    },
+    {
+        "input_files": {
+            "/fs/ddn/sdf/group/hps/users/mgignac/MC/output/fee/3/beam_rot_sampled_readout_recon.slcio": "data_events.slcio"
+        },
+        "output_files": {
+            "data_events_aliRecon_all_PC_ST_millepede.bin": "data_events_aliRecon_all_PC_ST_millepede.bin",
+            "data_events_aliRecon_gblplots.root": "data_events_aliRecon_gblplots.root"
+        },
+        "output_dir": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/output/HPS_Run2021Pass1_v5/1194550/14",
+        "detector": "HPS_Run2021Pass1_v5",
+        "run_number": 1194550,
+        "steering_files": {
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigMultiSingles.lcsim",
+            "aliRecon": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/alignmentDrivers/alignmentDriver_PC.lcsim"
+        },
+        "nevents": -1,
+        "job_id": 14
+    },
+    {
+        "input_files": {
+            "/fs/ddn/sdf/group/hps/users/mgignac/MC/output/fee/4/beam_rot_sampled_readout_recon.slcio": "data_events.slcio"
+        },
+        "output_files": {
+            "data_events_aliRecon_all_PC_ST_millepede.bin": "data_events_aliRecon_all_PC_ST_millepede.bin",
+            "data_events_aliRecon_gblplots.root": "data_events_aliRecon_gblplots.root"
+        },
+        "output_dir": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/output/HPS_Run2021Pass1_v5/1194550/15",
+        "detector": "HPS_Run2021Pass1_v5",
+        "run_number": 1194550,
+        "steering_files": {
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigMultiSingles.lcsim",
+            "aliRecon": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/alignmentDrivers/alignmentDriver_PC.lcsim"
+        },
+        "nevents": -1,
+        "job_id": 15
+    },
+    {
+        "input_files": {
+            "/fs/ddn/sdf/group/hps/users/mgignac/MC/output/fee/5/beam_rot_sampled_readout_recon.slcio": "data_events.slcio"
+        },
+        "output_files": {
+            "data_events_aliRecon_all_PC_ST_millepede.bin": "data_events_aliRecon_all_PC_ST_millepede.bin",
+            "data_events_aliRecon_gblplots.root": "data_events_aliRecon_gblplots.root"
+        },
+        "output_dir": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/output/HPS_Run2021Pass1_v5/1194550/16",
+        "detector": "HPS_Run2021Pass1_v5",
+        "run_number": 1194550,
+        "steering_files": {
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigMultiSingles.lcsim",
+            "aliRecon": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/alignmentDrivers/alignmentDriver_PC.lcsim"
+        },
+        "nevents": -1,
+        "job_id": 16
+    },
+    {
+        "input_files": {
+            "/fs/ddn/sdf/group/hps/users/mgignac/MC/output/fee/6/beam_rot_sampled_readout_recon.slcio": "data_events.slcio"
+        },
+        "output_files": {
+            "data_events_aliRecon_all_PC_ST_millepede.bin": "data_events_aliRecon_all_PC_ST_millepede.bin",
+            "data_events_aliRecon_gblplots.root": "data_events_aliRecon_gblplots.root"
+        },
+        "output_dir": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/output/HPS_Run2021Pass1_v5/1194550/17",
+        "detector": "HPS_Run2021Pass1_v5",
+        "run_number": 1194550,
+        "steering_files": {
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigMultiSingles.lcsim",
+            "aliRecon": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/alignmentDrivers/alignmentDriver_PC.lcsim"
+        },
+        "nevents": -1,
+        "job_id": 17
+    },
+    {
+        "input_files": {
+            "/fs/ddn/sdf/group/hps/users/mgignac/MC/output/fee/7/beam_rot_sampled_readout_recon.slcio": "data_events.slcio"
+        },
+        "output_files": {
+            "data_events_aliRecon_all_PC_ST_millepede.bin": "data_events_aliRecon_all_PC_ST_millepede.bin",
+            "data_events_aliRecon_gblplots.root": "data_events_aliRecon_gblplots.root"
+        },
+        "output_dir": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/output/HPS_Run2021Pass1_v5/1194550/18",
+        "detector": "HPS_Run2021Pass1_v5",
+        "run_number": 1194550,
+        "steering_files": {
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigMultiSingles.lcsim",
+            "aliRecon": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/alignmentDrivers/alignmentDriver_PC.lcsim"
+        },
+        "nevents": -1,
+        "job_id": 18
+    },
+    {
+        "input_files": {
+            "/fs/ddn/sdf/group/hps/users/mgignac/MC/output/fee/8/beam_rot_sampled_readout_recon.slcio": "data_events.slcio"
+        },
+        "output_files": {
+            "data_events_aliRecon_all_PC_ST_millepede.bin": "data_events_aliRecon_all_PC_ST_millepede.bin",
+            "data_events_aliRecon_gblplots.root": "data_events_aliRecon_gblplots.root"
+        },
+        "output_dir": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/output/HPS_Run2021Pass1_v5/1194550/19",
+        "detector": "HPS_Run2021Pass1_v5",
+        "run_number": 1194550,
+        "steering_files": {
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigMultiSingles.lcsim",
+            "aliRecon": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/alignmentDrivers/alignmentDriver_PC.lcsim"
+        },
+        "nevents": -1,
+        "job_id": 19
+    },
+    {
+        "input_files": {
+            "/fs/ddn/sdf/group/hps/users/mgignac/MC/output/fee/9/beam_rot_sampled_readout_recon.slcio": "data_events.slcio"
+        },
+        "output_files": {
+            "data_events_aliRecon_all_PC_ST_millepede.bin": "data_events_aliRecon_all_PC_ST_millepede.bin",
+            "data_events_aliRecon_gblplots.root": "data_events_aliRecon_gblplots.root"
+        },
+        "output_dir": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/output/HPS_Run2021Pass1_v5/1194550/20",
+        "detector": "HPS_Run2021Pass1_v5",
+        "run_number": 1194550,
+        "steering_files": {
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigMultiSingles.lcsim",
+            "aliRecon": "/fs/ddn/sdf/group/hps/users/mgignac/alignment/alignmentDrivers/alignmentDriver_PC.lcsim"
+        },
+        "nevents": -1,
+        "job_id": 20
+    }
+]
